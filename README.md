@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShadySheep
+- 👋 Hi, I’m @XiroDoubts
 - 👀 I’m interested in ... BitBurner/javascript
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ...
